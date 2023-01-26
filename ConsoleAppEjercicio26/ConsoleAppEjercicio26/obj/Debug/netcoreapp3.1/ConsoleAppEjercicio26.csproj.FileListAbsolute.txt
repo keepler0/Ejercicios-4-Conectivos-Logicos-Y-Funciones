@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.exe
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.deps.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.dll
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio26.pdb
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.dll
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.pdb
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio26\ConsoleAppEjercicio26\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio26.genruntimeconfig.cache

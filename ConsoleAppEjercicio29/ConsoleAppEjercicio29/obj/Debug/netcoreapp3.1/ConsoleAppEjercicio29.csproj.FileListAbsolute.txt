@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.exe
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.deps.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.dll
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio29.pdb
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.dll
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.pdb
+C:\Users\diego\source\repos\Ejercicio 4 conectivos logicos y funciones\ConsoleAppEjercicio29TERMINAR\ConsoleAppEjercicio29\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio29.genruntimeconfig.cache
